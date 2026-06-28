@@ -6,12 +6,8 @@ I'm a creative technologist who loves turning ideas into playful, useful product
 
 **Links**
 
-<a href="https://www.x.com/dominiconorton">X</a><br>
-<a href="https://www.substack.com/dominiconorton">Substack</a><br>
-<a href="https://www.youtube.com/@mr.hackathon">YouTube</a>
+<a href="https://www.x.com/dominiconorton">𝕏 X</a> · <a href="https://www.substack.com/dominiconorton">✍️ Substack</a> · <a href="https://www.youtube.com/@mr.hackathon">▶️ YouTube</a>
 
-    </td>
-    <td width="70%" valign="top">
 
 ### ⭐ Featured Projects
 
