@@ -17,16 +17,3 @@ I'm a creative technologist who loves turning ideas into playful, useful product
 
 ---
 
-### 📌 Pinned
-
----
-
-### 🤝 Contributions
-
----
-
-### 📈 Contribution Activity
-
-    </td>
-  </tr>
-
