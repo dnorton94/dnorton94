@@ -1,16 +1,36 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="30%" valign="top">
 
-<!--
-**dnorton94/dnorton94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Mr. Hackathon 🌹
 
-Here are some ideas to get you started:
+I'm a creative technologist who loves turning ideas into playful, useful products. I build in public, experiment across AI and software, and hope the things I make encourage others to start building projects they're excited about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Links**
+
+<a href="https://www.x.com/dominiconorton">X</a><br>
+<a href="https://www.substack.com/dominiconorton">Substack</a><br>
+<a href="https://www.youtube.com/@mr.hackathon">YouTube</a>
+
+    </td>
+    <td width="70%" valign="top">
+
+### ⭐ Featured Projects
+
+---
+
+### 📌 Pinned
+
+---
+
+### 🤝 Contributions
+
+---
+
+### 📈 Contribution Activity
+
+    </td>
+  </tr>
+</table>
