@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td width="30%" valign="top">
-
 ### Hi, I'm Mr. Hackathon 🌹
 
 I'm a creative technologist who loves turning ideas into playful, useful products. I build in public, experiment across AI and software, and hope the things I make encourage others to start building projects they're excited about.
@@ -33,4 +29,4 @@ I'm a creative technologist who loves turning ideas into playful, useful product
 
     </td>
   </tr>
-</table>
+
